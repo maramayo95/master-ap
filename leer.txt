@@ -1,0 +1,7 @@
+Acá les dejo fuentes de donde saqué algunos componentes :
+
+Hero :
+https://library.livecanvas.com/sections/responsive-left-aligned-hero-with-image/
+
+Gradient CSS Generator : 
+https://mycolor.space/gradient?ori=to+right+top&hex=%23051937&hex2=%23A8EB12&sub=1
